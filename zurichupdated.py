@@ -3,7 +3,7 @@ import pandas as pd
 import time
 
 # Replace with your GitHub token
-TOKEN = "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"
+TOKEN = ""
 HEADERS = {"Authorization": f"token {TOKEN}"}
 
 # Define function to fetch users in Zurich with over 50 followers
